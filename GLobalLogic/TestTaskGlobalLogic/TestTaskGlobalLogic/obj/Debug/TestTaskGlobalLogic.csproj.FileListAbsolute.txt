@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Собеседование Задание\GLobalLogic\TestTaskGlobalLogic\TestTaskGlobalLogic\bin\Debug\TestTaskGlobalLogic.exe.config
+C:\Users\User\Desktop\Собеседование Задание\GLobalLogic\TestTaskGlobalLogic\TestTaskGlobalLogic\bin\Debug\TestTaskGlobalLogic.exe
+C:\Users\User\Desktop\Собеседование Задание\GLobalLogic\TestTaskGlobalLogic\TestTaskGlobalLogic\bin\Debug\TestTaskGlobalLogic.pdb
+C:\Users\User\Desktop\Собеседование Задание\GLobalLogic\TestTaskGlobalLogic\TestTaskGlobalLogic\obj\Debug\TestTaskGlobalLogic.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Собеседование Задание\GLobalLogic\TestTaskGlobalLogic\TestTaskGlobalLogic\obj\Debug\TestTaskGlobalLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Собеседование Задание\GLobalLogic\TestTaskGlobalLogic\TestTaskGlobalLogic\obj\Debug\TestTaskGlobalLogic.exe
+C:\Users\User\Desktop\Собеседование Задание\GLobalLogic\TestTaskGlobalLogic\TestTaskGlobalLogic\obj\Debug\TestTaskGlobalLogic.pdb
